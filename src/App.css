@@ -1,0 +1,11 @@
+/* Bootstrap 5 colours are different from the handout (Bootstrap 4),
+   so these rules bring back the brighter green header and teal cards */
+.header-bar.bg-success {
+  background-color: #28a745 !important;
+  color: #212529;
+}
+
+.person-card.bg-info {
+  background-color: #17a2b8 !important;
+  color: #212529;
+}
